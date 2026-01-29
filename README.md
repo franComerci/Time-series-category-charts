@@ -1,4 +1,4 @@
-# 📊 Project 1: Sales Analysis & Data Visualization
+# Sales Analysis & Data Visualization
 
 This project consists of an automated Python script to perform Exploratory Data Analysis (EDA) on a retail dataset (`Superstore Sales`). The goal is to transform raw Excel data into visual reports and key metrics to support decision-making.
 
